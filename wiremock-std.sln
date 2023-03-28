@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiremock-std", "wiremock-std\wiremock-std.csproj", "{F6911883-C943-49DD-9899-4A49BC7B3386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6911883-C943-49DD-9899-4A49BC7B3386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6911883-C943-49DD-9899-4A49BC7B3386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6911883-C943-49DD-9899-4A49BC7B3386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6911883-C943-49DD-9899-4A49BC7B3386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09CB519A-F45A-4427-A9B9-E391E55FE221}
+	EndGlobalSection
+EndGlobal
